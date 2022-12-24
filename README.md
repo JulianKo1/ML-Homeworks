@@ -1,1 +1,1 @@
-# 2 лаба в той же папке, что и первая
+# Machine Learning Homeworks
